@@ -1,0 +1,5 @@
+INFO       19/04/2017 09:58:01.012    .\PCSHandler\PCSHandler.cpp:291    Send Register msg to PCS!
+INFO       19/04/2017 09:58:01.024    .\PCSHandler\PCSHandler.cpp:314    Register to pcs success!
+INFO       19/04/2017 09:58:07.075    .\PTSHandler\PTSBase.cpp:80    Connect to PTS[37.56.137.219, 172.24.132.254 : 9115] failed
+INFO       19/04/2017 09:58:13.082    .\PTSHandler\PTSBase.cpp:80    Connect to PTS[37.56.137.219, 172.24.132.254 : 9115] failed
+INFO       19/04/2017 09:58:19.089    .\PTSHandler\PTSBase.cpp:80    Connect to PTS[37.56.137.219, 172.24.132.254 : 9115] failed
